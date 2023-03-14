@@ -1,0 +1,8 @@
+nom :lkrim , prenom :anouar
+python : 12.0
+securite : 0.0
+cryptographie : 20.0
+system : 0.0
+big_data : 0.0
+machin_learning : 0.0
+--------------------------------------------
